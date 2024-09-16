@@ -153,9 +153,12 @@ Certifique-se de que todos os testes estão documentados e que scripts de exempl
 
 ```json
 {
-  "nome": "João da Silva",
-  "email": "joao.silva@example.com",
-  "telefone": "123456789"
+  "nome": "string",
+  "email": "string",
+  "telefone": "string",
+  "segmentoMercado": "string",
+  "scoreEngajamento": 0,
+  "dataCriacao": "2024-09-16T22:46:35.511Z"
 }
 ```
 
