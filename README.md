@@ -1,6 +1,4 @@
-Vou criar um `README.md` completo para o projeto **ProspAI**, incluindo todas as seções necessárias para um deploy bem-sucedido no Azure, usando IntelliJ IDEA ou Eclipse, com o projeto configurado em Gradle e Java 21.
 
-### `README.md` Completo para ProspAI
 
 # ProspAI
 
